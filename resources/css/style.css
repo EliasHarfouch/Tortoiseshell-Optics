@@ -1,0 +1,47 @@
+html {
+
+  font-size: 18px;
+
+}
+
+.container {
+
+  
+}
+
+.company-heading {
+  display: flex;
+  background-color: cadetblue;
+  margin-top: 1rem;
+  height: 5rem;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+
+
+}
+
+.logo img {
+
+  height: 1.5rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
+}
+
+span {
+
+  color: white;
+  font-size: 1rem;
+  font-family: "Helvetica", sans-serif;
+}
+
+nav span {
+
+  padding-right: 2rem;
+}
